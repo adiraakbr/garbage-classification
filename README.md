@@ -38,9 +38,9 @@ Gunakan Jupyter Notebook atau Google Colab untuk membuka dan menjalankan `notebo
 | Format        | Deskripsi                                                  |
 |---------------|-------------------------------------------------------------|
 | `.h5`         | Format default Keras, berisi arsitektur dan bobot model     |
+| `.pb`         | Format SavedModel                  |
 | `.tflite`     | Format ringan untuk Android/Edge Devices                    |
 | `TFJS`        | Format untuk penggunaan model di browser                    |
-| `label.txt`   | Daftar label/kelas hasil pelatihan                          |
 
 ---
 
