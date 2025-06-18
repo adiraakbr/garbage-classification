@@ -1,6 +1,5 @@
 
-# Image Classification Model - CNN Sampah Kategori
-
+# Image Classification Model - CNN Kategori Sampah
 Proyek ini proyek klasifikasi gambar dengan menggunakan Convolutional Neural Network (CNN) untuk mengelompokkan jenis sampah ke dalam beberapa kategori seperti plastik, kaca, logam, dll. Model dibuat menggunakan TensorFlow dan disimpan dalam berbagai format untuk keperluan deployment.
 
 ---
